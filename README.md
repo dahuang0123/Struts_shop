@@ -5,4 +5,6 @@ A ease shopping project through use  Struts2
 ![B](https://github.com/NeQrhk/Struts_shop/image3/2.png)   
 ![C](https://github.com/NeQrhk/Struts_shop/image3/3.png)   
 ![image](https://github.com/NeQrhk/Struts_shop/image3/4.png)  
-![image](https://github.com/NeQrhk/Struts_shop/image3/5.png)   
+![image](https://github.com/NeQrhk/Struts_shop/image3/5.png) 
+  
+https://github.com/Jisilo/Struts_shop/blob/master/image3/1.png
