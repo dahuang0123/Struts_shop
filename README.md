@@ -9,3 +9,5 @@ A ease shopping project through use  Struts2
 ![image](https://github.com/Jisilo/Struts_shop/blob/master/image3/3.png)
 ![image](https://github.com/Jisilo/Struts_shop/blob/master/image3/4.png)
 ![image](https://github.com/Jisilo/Struts_shop/blob/master/image3/5.png)
+
+欢迎小伙伴们 fork || star
